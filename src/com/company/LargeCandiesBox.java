@@ -1,23 +1,8 @@
-/*
- *
- * Classame : LargeCandiesBox
- *
- *  26 June 2020
- *
- * Author: Stavnichuk Dmytro
- * Version: 1.0
- *
- *  Module 3, Laboratory Work
- *
- * Variant number II
- * Candies in boxes and by weight.
-
- *
- * */
 package com.company;
 
 /*
  *
+ * Classame : LargeCandiesBox
  * @param LargeCandiesBox - creating Large Box with candies with name,weight and amount
  *
  * */
@@ -39,6 +24,8 @@ public class LargeCandiesBox implements ICandiesWeight {
         this.candieWeight = candieWeight;
         this.candieAmount = candieAmount;
     }
+
+    //getters + setters
 
     public String getCandieName() {
         return candieName;

@@ -7,7 +7,6 @@ package com.company;
  *  26 June 2020
  *
  * Author: Stavnichuk Dmytro
- * Version: 1.0
  *
  *  Module 3, Laboratory Work
  *
@@ -21,10 +20,9 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-
 /*
  *
- * @param Main - program wich calculates Candie Package and Candie Box with each other.
+ * @param Main - program which calculates Candie Package and Candie Box with each other.
  * Including of calculation of :
  * average weight
  * min. weight
